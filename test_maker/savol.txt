@@ -1,0 +1,52 @@
+?Qachon bir nima bir nima bo'lgan?
+bir nima yil
+*bir nima yil
+bir nima yil
+bir nima yil
+
+?ikinchi Qachon bir nima bir nima bo'lgan?
+bir nima yil
+*bir nima yil
+bir nima yil
+bir nima yil
+
+?Uchinchi Qachon bir nima bir nima bo'lgan?
+bir nima yil
+*bir nima yil
+bir nima yil
+bir nima yil
+
+?turtinchi Qachon bir nima bir nima bo'lgan?
+bir nima yil
+*bir nima yil
+bir nima yil
+bir nima yil
+
+?5-qachon Qachon bir nima bir nima bo'lgan?
+bir nima yil
+*bir nima yil
+bir nima yil
+bir nima yil
+
+?6-qachon Qachon bir nima bir nima bo'lgan?
+bir nima yil
+*bir nima yil
+bir nima yil
+bir nima yil
+
+?7-Qachon bir nima bir nima bo'lgan?
+bir nima yil
+*bir nima yil
+bir nima yil
+bir nima yil
+
+Question:
+- Starts with a big letter, small letter or a number
+- consists of 2+ words
+- ends with . or ! or ?
+- 
+
+Answer:
+- Starts with a big letter, small letter or a number
+- consists of 2+ words
+- ends with . ! ?
